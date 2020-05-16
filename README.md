@@ -21,7 +21,7 @@ This module is not available for Windows.
 1) Enter the following script into the console using elevated privileges
 
 ```
-curl https://github.com/themarcusaurelius/vizion.ai/blob/master/beat-install-scripts/install-config-auditd.sh > install-config-auditd.sh; chmod a+x  install-config-auditd.sh; ./install-config-auditd.sh _PLACEHOLDER_API_ENDPOINT_
+curl https://github.com/vizionelkhelp/vizion.ai/blob/master/beat-install-scripts/install-config-auditd.sh > install-config-auditd.sh; chmod a+x  install-config-auditd.sh; ./install-config-auditd.sh _PLACEHOLDER_API_ENDPOINT_
 ```
 
 2) When prompted, select the proper environment to complete the installation.
